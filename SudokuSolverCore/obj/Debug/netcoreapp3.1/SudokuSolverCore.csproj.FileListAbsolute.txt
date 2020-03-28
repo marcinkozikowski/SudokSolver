@@ -1,0 +1,12 @@
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/bin/Debug/netcoreapp3.1/SudokuSolverCore.deps.json
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/bin/Debug/netcoreapp3.1/SudokuSolverCore.runtimeconfig.json
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/bin/Debug/netcoreapp3.1/SudokuSolverCore.runtimeconfig.dev.json
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/bin/Debug/netcoreapp3.1/SudokuSolverCore.dll
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/bin/Debug/netcoreapp3.1/SudokuSolverCore.pdb
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/obj/Debug/netcoreapp3.1/SudokuSolverCore.csprojAssemblyReference.cache
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/obj/Debug/netcoreapp3.1/SudokuSolverCore.csproj.CoreCompileInputs.cache
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/obj/Debug/netcoreapp3.1/SudokuSolverCore.AssemblyInfoInputs.cache
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/obj/Debug/netcoreapp3.1/SudokuSolverCore.AssemblyInfo.cs
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/obj/Debug/netcoreapp3.1/SudokuSolverCore.dll
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/obj/Debug/netcoreapp3.1/SudokuSolverCore.pdb
+/Users/marcin/Documents/C# Projects/SudokSolver/SudokuSolverCore/obj/Debug/netcoreapp3.1/SudokuSolverCore.genruntimeconfig.cache
